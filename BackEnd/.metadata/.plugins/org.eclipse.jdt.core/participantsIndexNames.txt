@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\jmedince\Documents\workspace\delvery-store\delivery-master\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2032020973.index
+\superstore\src\main\resources
+C:\Users\jmedince\Documents\workspace\delvery-store\delivery-master\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\302204745.index
+\superstoreWeb\src\main\resources

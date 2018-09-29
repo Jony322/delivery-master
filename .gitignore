@@ -26,6 +26,10 @@
 
 # Angular Exclusions
 FrontEnd/app-master-delivery/node_modules
+target/
+.metadata
+.recomenders
+
 
 # misc
 /.sass-cache

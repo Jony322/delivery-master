@@ -1,0 +1,13 @@
+package mx.superstore.web.it.architecture;
+
+import org.apache.logging.log4j.Logger;
+
+public class Architech {
+
+	private static Logger logger;
+	
+	
+	
+	
+	
+}

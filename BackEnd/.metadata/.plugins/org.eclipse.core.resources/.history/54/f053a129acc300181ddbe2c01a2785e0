@@ -1,0 +1,16 @@
+package mx.superstore.web.it.architecture;
+
+import org.apache.logging.log4j.Logger;
+
+public abstract class Architech {
+
+	
+	private Architech() {
+		
+	}
+	
+	public static void Info(String message, Class<?> clazz) {
+		
+	}
+	
+}
