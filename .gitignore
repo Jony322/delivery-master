@@ -27,8 +27,8 @@
 # Angular Exclusions
 FrontEnd/app-master-delivery/node_modules
 target/
-.metadata
-.recomenders
+BackEnd/.metadata/
+BackEnd/.recomenders/
 
 
 # misc
